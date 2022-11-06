@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @kakazoka
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Unity 3D game development
-- 📫 How to reach me @kakazokaaa on Twitter
